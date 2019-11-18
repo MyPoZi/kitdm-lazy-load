@@ -1,5 +1,5 @@
-const SEARCH_API_KEY = 'AIzaSyDyr-6qRIus8uqeOHnB_TLbqBQUUfA0r3U'
-const SEARCH_ID = '003074611804210961274:goge6njbxwm'
+const SEARCH_API_KEY = ''
+const SEARCH_ID = ''
 const BASE_URL = `https://www.googleapis.com/customsearch/v1?key=${SEARCH_API_KEY}&cx=${SEARCH_ID}&searchType=image`
 
 let word = ''
